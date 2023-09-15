@@ -24,6 +24,6 @@ Constructive comments and suggestions are always welcome. I believe in the power
 
 Besides my main interests, I am also fascinated by emerging technologies such as AI, Blockchain, and Machination.
 
-## Social
+## 🤝🏾 Social
 
 You can visit https://chisaneme-aloni.hashnode.dev/ to have access to my Article.
