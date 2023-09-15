@@ -5,7 +5,11 @@ Welcome to my GitHub profile! I am a technology enthusiast, always striving to s
 ### 🛠 Languages
 
 Html
+
 CSS
+
 JavaScript
+
 Python
+
 SQL
