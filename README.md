@@ -22,4 +22,8 @@ I love connecting with other developers, sharing my projects, and contributing t
 
 Constructive comments and suggestions are always welcome. I believe in the power of constantly improving and honing your skills to achieve exceptional results.
 
-Besides my main interests, I am also fascinated by emerging technologies such as AI, Blockchain, and Machination
+Besides my main interests, I am also fascinated by emerging technologies such as AI, Blockchain, and Machination.
+
+## Social
+
+You can visit https://chisaneme-aloni.hashnode.dev/ to have access to my Article.
